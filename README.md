@@ -1,4 +1,4 @@
-"# Evacuation-Route-Finding-Artefact" 
+# Evacuation-Route-Finding-Artefact
 
 This repository contains the notebook of the artefact for the project: Safety-Driven Building Evacuation Path Finding Algorithm  
 
